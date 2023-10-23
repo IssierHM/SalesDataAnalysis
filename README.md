@@ -1,7 +1,7 @@
 # SalesDataAnalysis
 Visualize Python data displayed through streamlit for practice
 
-#运行环境
+# 运行环境  
 python==3.10.9   
 streamlit==1.24.0  
 streamlit_echarts==0.4.0  
